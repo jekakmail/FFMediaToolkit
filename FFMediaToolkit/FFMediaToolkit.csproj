@@ -20,6 +20,8 @@
     <AssemblyOriginatorKeyFile>..\FFMediaToolkit.snk</AssemblyOriginatorKeyFile>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <IncludeBuildOutput>true</IncludeBuildOutput>
+    <PackageOutputPath>..\..\..\nuget\</PackageOutputPath>
   </PropertyGroup>
 
   <PropertyGroup>
